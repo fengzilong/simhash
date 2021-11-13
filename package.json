@@ -1,0 +1,19 @@
+{
+  "name": "@biu/simhash",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzilong/simhash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzilong/simhash/issues"
+  },
+  "homepage": "https://github.com/fengzilong/simhash#readme",
+  "dependencies": {}
+}
