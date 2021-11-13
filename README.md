@@ -1,5 +1,7 @@
 # simhash
 
+Javascript implementation for `simhash` algorithm which is widely used by Google for massive web pages
+
 ## Installation
 
 ```bash
